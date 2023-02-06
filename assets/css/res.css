@@ -1,0 +1,10 @@
+@media only screen and (max-width: 739px) {
+  .container{
+    width: 45%;
+    min-width: 360px;
+  }
+  .weapons button{
+    height: 80px;
+    width: 80px;
+  }
+}
